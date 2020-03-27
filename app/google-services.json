@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372809675438",
+    "firebase_url": "https://find-my-device-4ab0d.firebaseio.com",
+    "project_id": "find-my-device-4ab0d",
+    "storage_bucket": "find-my-device-4ab0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372809675438:android:8e1ec46c2b7b0b7750333f",
+        "android_client_info": {
+          "package_name": "com.nakulbhoria.findmydevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372809675438-uke8r6i0d1jelhmdjset51d64q5mh9dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nakulbhoria.findmydevice",
+            "certificate_hash": "83b950f4d6a4d143d0b6f490e42d2c3adb93c2e7"
+          }
+        },
+        {
+          "client_id": "372809675438-ecl26v3ssert4lcitsanu35mqfv3l9lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuY7Pq2NqPOb6nmAxF66XvtR4fp0C1Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372809675438-ecl26v3ssert4lcitsanu35mqfv3l9lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
